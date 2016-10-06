@@ -16,9 +16,9 @@ http://docs.openstack.org/hot-reference/
 
 
 <!-- .slide: data-background-image="images/by-sa.svg" data-background-size="contain" -->
-https://hastexo.github.io/openstacksummit2015-tokyo-handson
+https://fghaas.github.io/lceu2016-tutorial
 
-https://github.com/hastexo/openstacksummit2015-tokyo-handson
+https://github.com/fghaas/lceu2016-tutorial
 
 
 <!-- .slide: data-background-image="images/hastexo-logo.svg" data-background-size="contain" -->
