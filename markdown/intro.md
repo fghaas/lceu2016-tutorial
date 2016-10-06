@@ -4,9 +4,9 @@ and
 ## Automation
 Inside and Out
 
-[Florian Haas](mailto:florian@hastexo.com) & [Syed Armani](mailto:syed@hastexo.com)
+[Florian Haas](mailto:florian@hastexo.com)
 
-[`@xahteiwi`](https://twitter.com/xahteiwi) | [`@syedarmani`](https://twitter.com/syedarmani) | [`@hastexo`](https://twitter.com/hastexo)
+[`@xahteiwi`](https://twitter.com/xahteiwi) | [`@hastexo`](https://twitter.com/hastexo)
 
 
 A few
@@ -25,7 +25,7 @@ Note:
 You're welcome to
 ## follow along
 
-https://github.com/hastexo/openstacksummit2015-tokyo-handson
+https://github.com/fghaas/lceu2016-tutorial
 Note:
 - All examples given in this talk are available from GitHub so you can
   follow along.
